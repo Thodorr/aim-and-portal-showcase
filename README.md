@@ -11,7 +11,7 @@ It was created as a three-person university project. Its gameplay turns portal-b
 
 ## Showcase video
 
-[Watch the interaction case study](media/aim-and-portal-showcase.mp4)
+[Watch the interaction case study](media/showcase.mp4)
 
 The video follows one quest object from portal placement to retrieval. It focuses on the interaction work rather than presenting a general gameplay trailer.
 
@@ -34,7 +34,7 @@ Quest objects are retrieved through portal interactions and placed on matching s
 
 ## Project report
 
-[Read the public project report in German](docs/Aim-and-Portal_Project-Report.pdf)
+[Read the public project report in German](docs/Projektbericht.pdf)
 
 The report documents the overall group project, including the interaction concept, technical architecture, requirements and the informal usability test.
 
