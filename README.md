@@ -7,7 +7,7 @@
 
 **Aim and Portal** is a Unity VR prototype in which a player places free-flying portals, aims through portal connections and retrieves distant objects without leaving a central hub world.
 
-It was created as a three-person university project. Its gameplay turns portal-based interaction into a series of small spatial tasks: observe a target world through a gate, place and adjust a portal, reach through it and bring a quest object back to the hub.
+It was created as a three-person university project at THM. Its gameplay showcases the portal based interaction via a series of small spatial tasks item retrieval tasks in seperate inaccessible worlds.
 
 ## Showcase video
 
