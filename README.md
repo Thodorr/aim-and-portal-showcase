@@ -23,9 +23,7 @@ The player starts in a hub world with gates into three separate environments: an
 
 Using the portal gun, the player can aim, fire and stop a portal at any position in the scene. A placed portal can then be rotated and moved for finer alignment. Portals can be shot through other portals.
 
-![Aim & Portal](media/GIFs/01-portal-pair.gif) 
-
-![Aim & Portal](media/GIFs/03-shoot-portal-other world.gif)
+![Aim & Portal](media/GIFs/01-portal-pair.gif) ![Aim & Portal](media/GIFs/03-shoot-portal-other-world.gif)
 
 Objects are retrieved by standard vr hand interactions through the portals or by direktly shooting objects with the portal gun. This prototype uses matiching sockets for item placement to demonstrate object retrieval through the portals.
 
