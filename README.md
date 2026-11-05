@@ -19,9 +19,15 @@ The video follows one quest object from portal placement to retrieval. It focuse
 
 The player starts in a hub world with gates into three separate environments: an office, a space environment and a dungeon. Each gate shows a live view into its target world.
 
+![Aim & Portal](media/GIFs/02-portal-windows.gif)
+
 Using the portal gun, the player can aim, fire and stop a portal at any position in the scene. A placed portal can then be rotated and moved for finer alignment. This makes it possible to look around obstacles, aim through existing connections and reach distant objects through the portal surface.
 
+![Aim & Portal](media/GIFs/01-portal-pair.gif)
+
 Quest objects are retrieved through portal interactions and placed on matching sockets in the hub. The prototype uses this loop to demonstrate remote interaction through and with portals.
+
+![Aim & Portal](media/GIFs/04-notepad-retrieval.gif)
 
 ## Technical context
 
