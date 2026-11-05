@@ -28,14 +28,12 @@ Using the portal gun, the player can aim, fire and stop a portal at any position
 Objects are retrieved by standard vr hand interactions through the portals or by direktly shooting objects with the portal gun. This prototype uses matiching sockets for item placement to demonstrate object retrieval through the portals.
 
 ![Aim & Portal](media/GIFs/04-notepad-retrieval.gif) 
+
 ## Technical context
 
 - Unity 6000.3.14f1
 - C#
-- OpenXR
 - XR Interaction Toolkit 3.3.1
-- Visual Effect Graph
-- Standalone build for Meta Quest 3
 
 ## Project report
 
