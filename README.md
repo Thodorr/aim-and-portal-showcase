@@ -21,14 +21,15 @@ The player starts in a hub world with gates into three separate environments: an
 
 ![Aim & Portal](media/GIFs/02-portal-windows.gif)
 
-Using the portal gun, the player can aim, fire and stop a portal at any position in the scene. A placed portal can then be rotated and moved for finer alignment. This makes it possible to look around obstacles, aim through existing connections and reach distant objects through the portal surface.
+Using the portal gun, the player can aim, fire and stop a portal at any position in the scene. A placed portal can then be rotated and moved for finer alignment. Portals can be shot through other portals.
 
-![Aim & Portal](media/GIFs/01-portal-pair.gif)
+![Aim & Portal](media/GIFs/01-portal-pair.gif) 
 
-Quest objects are retrieved through portal interactions and placed on matching sockets in the hub. The prototype uses this loop to demonstrate remote interaction through and with portals.
+![Aim & Portal](media/GIFs/03-shoot-portal-other world.gif)
 
-![Aim & Portal](media/GIFs/04-notepad-retrieval.gif)
+Objects are retrieved by standard vr hand interactions through the portals or by direktly shooting objects with the portal gun. This prototype uses matiching sockets for item placement to demonstrate object retrieval through the portals.
 
+![Aim & Portal](media/GIFs/04-notepad-retrieval.gif) 
 ## Technical context
 
 - Unity 6000.3.14f1
